@@ -36,6 +36,7 @@ class Navigation extends Component {
                         <Nav.Link as="span"><Link href="/"><a>Gesundheitswesen</a></Link></Nav.Link>
                         <Nav.Link as="span"><Link href="/"><a>Medizintechnik</a></Link></Nav.Link>
                         <Nav.Link as="span"><Link href="/"><a>Weitere Branchen</a></Link></Nav.Link>
+                        <Nav.Link as="span"><Link href="/Contact/Contact"><a>Kontakt</a></Link></Nav.Link>
                         <Nav.Link as="span"><Link href="/"><a><BiSearch/></a></Link></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
